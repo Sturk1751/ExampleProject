@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ExampleMod",
+  "name": "Sturk's Example Mod",
+  "description": "Idk something cool I guess.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sturk"],
+  "credits": "xd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
